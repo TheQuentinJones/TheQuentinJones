@@ -7,8 +7,9 @@
 
   Coding is a great passion of mine, but I am also passionate about real estate and traveling. I am hoping that these interests will keep fueling one another as they       have in the past. I just want to say welcome again and thank you for taking a look at my page! If you are so inclined, you can contact me using my socials below!
   
-  You can find me at:
-  
+   
 [![Quentins Github Stats](https://github-readme-stats-gold-alpha.vercel.app/api?username=TheQuentinJones&count_private=true&show_icons=true&theme=github_dark)](https://github.com/TheQuentinJones)
+
+ You can find me here:
 
 [![LinkedIn Shield](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/therealtorque/) [![Email Shield](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qj82189@gmail.com) [![Twitter Shield](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/QueTheRealtor) [![Instagram Shield](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/realtor.que/)
