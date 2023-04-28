@@ -8,7 +8,7 @@
   Coding is a great passion of mine, but I am also passionate about real estate and traveling. I am hoping that these interests will keep fueling one another as they       have in the past. I just want to say welcome again and thank you for taking a look at my page! If you are so inclined, you can contact me using my socials below!
   
    
-[![Quentins Github Stats](https://github-readme-stats-gold-alpha.vercel.app/api?username=TheQuentinJones&count_private=true&show_icons=true&theme=github_dark)](https://github.com/TheQuentinJones)
+[![Quentins Github Stats](https://github-readme-stats-six-nu-10.vercel.app/api?username=TheQuentinJones&count_private=true&show_icons=true&theme=github_dark)](https://github.com/TheQuentinJones)
 
  You can find me using the links below:
 
