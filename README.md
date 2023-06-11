@@ -5,7 +5,9 @@
 
   This page is still a work in progress as I am working on new ideas and projects all of the time. I engineer and develop for myself, but also to help others acheive       their goals. I like to think of coding as a team sport and hope to be able to collaborate more to further my learning and possibly impart knowledge that I have           attained as well. Working as a part of a team is always rewarding.
 
-  Coding is a great passion of mine, but I am also passionate about real estate and traveling. I am hoping that these interests will keep fueling one another as they       have in the past. I just want to say welcome again and thank you for taking a look at my page! If you are so inclined, you can contact me using my socials below!
+  Coding is a great passion of mine, but I am also passionate about real estate and traveling. I am hoping that these interests will keep fueling one another as they have in the past. I just want to say welcome again and thank you for taking a look at my page! If you are so inclined, you can contact me using my socials below!
+  
+  If you see something you like, please feel free to put a star on the repository!
   
    
 [![Quentins Github Stats](https://github-readme-stats-six-nu-10.vercel.app/api?username=TheQuentinJones&count_private=true&show_icons=true&theme=github_dark)](https://github.com/TheQuentinJones)
