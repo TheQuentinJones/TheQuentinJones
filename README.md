@@ -10,7 +10,7 @@
   If you see something you like, please feel free to put a star on the repository!
   
    
-[![Quentins Github Stats](https://github-readme-stats-six-nu-10.vercel.app/api?username=TheQuentinJones&count_private=true&show_icons=true&theme=github_dark)](https://github.com/TheQuentinJones)
+[![Quentins Github Stats](https://github-readme-stats-rjny.vercel.app/api?username=TheQuentinJones&count_private=true&show_icons=true&theme=github_dark)](https://github.com/TheQuentinJones)
 
  You can find me using the links below:
 
