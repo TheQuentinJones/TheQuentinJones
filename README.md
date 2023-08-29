@@ -12,7 +12,7 @@
    
 [![Quentins Github Stats](https://github-readme-stats-rjny.vercel.app/api?username=TheQuentinJones&count_private=true&show_icons=true&theme=github_dark)](https://github.com/TheQuentinJones)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TheQuentinJones)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TheQuentinJones&theme=tokyonight-duo&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
  You can find me using the links below:
 
