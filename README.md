@@ -14,6 +14,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TheQuentinJones&theme=tokyonight-duo&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
- You can find me using the links below:
+ Contact me using the links below:
 
 [![LinkedIn Shield](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/therealtorque/) [![Email Shield](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quentin.mcc.jones@gmail.com) [![Twitter Shield](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/QueTheRealtor) [![Instagram Shield](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/realtor.que/)
